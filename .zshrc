@@ -16,7 +16,6 @@ source "${ZINIT_HOME}/zinit.zsh"
 # Load zsh plugins with zinit
 zinit light zsh-users/zsh-syntax-highlighting
 zinit light zsh-users/zsh-completions
-zinit light zsh-users/zsh-autosuggestions
 zinit light Aloxaf/fzf-tab
 
 # Load additional zsh snippets with zinit
