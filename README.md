@@ -10,7 +10,6 @@ This is my zsh configuration based off the [Dreams of Autonomy YouTube Channel](
 - [zinit](https://github.com/zdharma-continuum/zinit) is a flexible and fast Zsh plugin manager.
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) provides syntax highlighting for Zsh.
 - [zsh-completions](https://github.com/zsh-users/zsh-completions) provides additional completion definitions for Zsh.
-- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) suggests commands as you type based on history.
 - [fzf-tab](https://github.com/Aloxaf/fzf-tab) integrates fzf with Zsh tab completion.
 - Custom keybindings for easier navigation and command editing.
 - Enhanced history management with various settings to manage Zsh command history behavior.
