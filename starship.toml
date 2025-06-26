@@ -1,3 +1,9 @@
 [character]
 success_symbol = "[➜](bold green)"
 error_symbol = "[✗](bold red)"
+
+[azure]
+disabled = false
+format = "on [$symbol($subscription)]($style) "
+symbol = "󰠅 "
+style = "blue bold"
